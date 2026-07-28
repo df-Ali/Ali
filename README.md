@@ -10,6 +10,7 @@
 ### 📌 Featured Projects
 - [Common Divisors Finder](https://github.com/df-Ali/Common-Divisors) — A C++ program that finds the common divisors of two numbers
 - [Number Range Printer](https://github.com/df-Ali/number-range-printer) — A C++ program that prints all numbers between two given numbers
+- [Factorial Calculator](https://github.com/df-Ali/Factorial-Calculator) — A C++ program that calculates and prints the factorial of a number
 
 ### 🌱 Currently Learning
 Django and C++, with a focus on building real-world backend projects.
