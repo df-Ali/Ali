@@ -11,6 +11,7 @@
 - [Common Divisors Finder](https://github.com/df-Ali/Common-Divisors) — A C++ program that finds the common divisors of two numbers
 - [Number Range Printer](https://github.com/df-Ali/number-range-printer) — A C++ program that prints all numbers between two given numbers
 - [Factorial Calculator](https://github.com/df-Ali/Factorial-Calculator) — A C++ program that calculates and prints the factorial of a number
+- [Power Calculator](https://github.com/df-Ali/Power-Calculator) — A C++ program that raises a number to the power of another number
 
 ### 🌱 Currently Learning
 Django and C++, with a focus on building real-world backend projects.
