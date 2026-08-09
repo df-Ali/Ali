@@ -13,7 +13,7 @@
 - [Factorial Calculator](https://github.com/df-Ali/Factorial-Calculator) — A C++ program that calculates and prints the factorial of a number
 - [Power Calculator](https://github.com/df-Ali/Power-Calculator) — A C++ program that raises a number to the power of another number
 - [Sum Below Number](https://github.com/df-Ali/Sum-below-number) — A C++ program that calculates the sum of all numbers smaller than a given number
-
+- [Fibonacci](#) — A C++ program that calculates Fibonacci numbers
 ### 🌱 Currently Learning
 Django and C++, with a focus on building real-world backend projects.
 
